@@ -1,0 +1,10 @@
+groq
+pytesseract
+opencv-python
+pandas
+PyYAML
+watchdog
+python-dotenv
+transformers
+torch
+google-generativeai 
