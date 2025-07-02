@@ -75,8 +75,3 @@ Processes all image files in a folder and exits.
 - If a check fails, the error is captured and reported in the results.
 - If not enough historical data is available for KPI summary, a warning is included.
 - Email sending is disabled by default for safety; can be enabled as needed.
-
----
-
-## Contact
-For questions or support, contact: [hr@zipp-ai.com](mailto:hr@zipp-ai.com) 
