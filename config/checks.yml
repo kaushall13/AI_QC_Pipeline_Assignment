@@ -1,0 +1,5 @@
+available_checks:
+  - completeness_check
+  - anomaly_check
+  - kpi_summary_check
+  - unit_conversion_check
